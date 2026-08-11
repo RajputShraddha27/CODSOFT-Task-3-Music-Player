@@ -5,7 +5,7 @@ This project provides a smooth music listening experience with playback controls
 
 ## Live Demo
 
-🔗 Add your Netlify live link here
+[View Live Project](https://codsoft-task-3-music-player.netlify.app/)
 
 ## Features
 
@@ -46,6 +46,10 @@ This project provides a smooth music listening experience with playback controls
 - LocalStorage
 - HTML5 Audio API
 
+## Author
+
+Made by Rajput Shraddha
+
 ## Project Structure
 
 ```text
@@ -70,7 +74,3 @@ src/
 ├── App.css
 ├── index.css
 └── main.jsx
-
-## Author
-
-Made by Rajput Shraddha
