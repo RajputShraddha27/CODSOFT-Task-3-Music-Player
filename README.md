@@ -46,6 +46,18 @@ This project provides a smooth music listening experience with playback controls
 - LocalStorage
 - HTML5 Audio API
 
+## Music Credits
+
+The music tracks used in this project were sourced from Pixabay Music.
+
+- Mountain Relaxing Music — Pixabay
+- Peaceful Piano — Pixabay
+- Night Drive — Pixabay
+- Morning Coffee — Pixabay
+
+Music Source:
+https://pixabay.com/music/
+
 ## Author
 
 Made by Rajput Shraddha
